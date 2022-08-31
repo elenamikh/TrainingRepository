@@ -1,9 +1,0 @@
-<Error>
-    <Code>AccessDenied</Code>
-    <Message>Request has expired</Message>
-    <X-Amz-Expires>120</X-Amz-Expires>
-    <Expires>2022-08-30T10:14:27Z</Expires>
-    <ServerTime>2022-08-31T08:59:30Z</ServerTime>
-    <RequestId>1BQ1ST6SGWEGRCR6</RequestId>
-    <HostId>SDiXvIvfvCSUQfD8QGtgnvnGcAwQgs5TUO93s4z6wmnsCXnqDY/7N5YfltNre76JFXqCbSt3RNg=</HostId>
-</Error>
